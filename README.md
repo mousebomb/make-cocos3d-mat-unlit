@@ -4,7 +4,7 @@
 
 帮我批量修改一个目录下所有mtl文件。
 
-从buildin-standart修改为带透明的常亮着色。
+从builtin-standard修改为带透明的常亮着色 (builtin-unlit tech1-transparent)  depth zwrite on, alphatest on ,alpha threshold 0.5
 
 
 
